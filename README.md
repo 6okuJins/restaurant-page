@@ -1,0 +1,1 @@
+A page created for the purpose of practicing Webpack.
